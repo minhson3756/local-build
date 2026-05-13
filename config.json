@@ -1,6 +1,6 @@
 {
   "cacheTtlMinutes": 60,
-  "showPercentage": 100,
+  "showPercentage": 10,
   "packageNames": [
     "com.assistive.touch.volume.adjust",
     "com.applauncher.easylauncher",
