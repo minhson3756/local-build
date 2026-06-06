@@ -4,6 +4,7 @@
   "packageNames": [
     "com.assistive.touch.volume.adjust",
     "com.applauncher.easylauncher",
-    "com.icontrol.control.center"
+    "com.icontrol.control.center",
+    "com.zen.wc.gps"
   ]
 }
