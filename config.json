@@ -2,14 +2,7 @@
   "cacheTtlMinutes": 60,
   "showPercentage": 10,
   "packageNames": [
-    "com.assistive.touch.volume.adjust",
-    "com.applauncher.easylauncher",
-    "com.icontrol.control.center",
-    "com.zen.wc.gps",
     "com.zen.home.decor.beautyhome",
-    "com.zen.aiphoto.aivideo.aitools",
-    "com.launcher.sleep.tracker",
-    "com.zen.universal.tvremote.smartcast",
-    "com.launcher.pdf.reader"
+    "com.zen.aiphoto.aivideo.aitools"
   ]
 }
