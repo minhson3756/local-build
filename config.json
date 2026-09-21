@@ -2,7 +2,6 @@
   "cacheTtlMinutes": 60,
   "showPercentage": 10,
   "packageNames": [
-    "com.zen.aiphoto.aivideo.aitools",
     "com.assistive.touch.volume.adjust",
     "com.applauncher.easylauncher",
     "com.icontrol.control.center",
