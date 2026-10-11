@@ -2,9 +2,6 @@
   "cacheTtlMinutes": 60,
   "showPercentage": 10,
   "packageNames": [
-    "com.assistive.touch.volume.adjust",
-    "com.applauncher.easylauncher",
-    "com.icontrol.control.center",
     "com.zen.home.decor.beautyhome",
     "com.launcher.sleep.tracker",
     "com.launcher.pdf.reader",
