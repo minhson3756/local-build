@@ -2,6 +2,7 @@
   "cacheTtlMinutes": 60,
   "showPercentage": 10,
   "packageNames": [
+    "com.zen.home.decor.beautyhome",
     "com.launcher.sleep.tracker",
     "com.launcher.pdf.reader",
     "com.zen.ai.scanning"
